@@ -1,0 +1,25 @@
+# Compile source
+*.o
+*.exe
+*.dll
+*.so
+*.lib
+
+# Packages
+*.zip
+*.7z
+*.rar
+
+# Logs
+*.log
+
+# Eclipse
+/.settings/
+*.prefs
+*.project
+*.cproject
+
+# Specific to this project
+*.ttf
+*.xml
+*.png
